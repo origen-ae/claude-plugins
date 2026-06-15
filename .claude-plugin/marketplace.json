@@ -2,6 +2,10 @@
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "origen-ae-plugins",
   "description": "Origen AE's Claude Code plugins — multi-agent workflows and dev tooling",
+  "owner": {
+    "name": "Origen AE",
+    "url": "https://github.com/origen-ae"
+  },
   "plugins": [
     {
       "name": "claude-agent-team",
