@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "origen-ae-plugins",
+  "description": "Origen AE's Claude Code plugins — multi-agent workflows and dev tooling",
+  "plugins": [
+    {
+      "name": "claude-agent-team",
+      "description": "Scaffolds a complete multi-agent dev team: 7 agents (PM, architect, frontend, backend, QA, reviewer, librarian), an 8-stage serial workflow with human approval gates and change-size tiers (S/M/L), a shared document system (PRD/SPEC/TEST-PLAN/ADR/RUNBOOK/BACKLOG), and an auto-generated STATUS dashboard.",
+      "author": {
+        "name": "Origen AE"
+      },
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/origen-ae/claude-agent-team.git",
+        "sha": "b443e158a108a542fdbee35e135667411a4a715d"
+      },
+      "homepage": "https://github.com/origen-ae/claude-agent-team"
+    }
+  ]
+}
