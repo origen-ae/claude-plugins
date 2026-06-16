@@ -16,8 +16,7 @@
       "category": "development",
       "source": {
         "source": "url",
-        "url": "https://github.com/origen-ae/claude-agent-team.git",
-        "sha": "7cfbfb4a0c42cd3d3845625a0da5d486be39bccb"
+        "url": "https://github.com/origen-ae/claude-agent-team.git"
       },
       "homepage": "https://github.com/origen-ae/claude-agent-team"
     }
